@@ -1,0 +1,23 @@
+Continuous Dependent Variable:
+>T-test - Tests 1-2 groups
+>ANOVA - Tests more than two groups
+
+Categorical Dependent Variable:
+>Chi Square
+
+Data Prep:
+-Talk about removing blanks, NAs
+-Remove categoricals with high cardinality > 3 to 5 levels
+-Consider removing outliers > 3 standard deviations
+-Remember to convert chr to str data to categoricals
+-Once you convert to categorical then convert to numeric levels. ex. small - 0, medium - 1, large - 2 (Not too important in this course)
+-Do not OVERTHINK
+
+Univariate v. Bivariate graphs:
+-Univariate means 'one variable'. A graph of a continuous variable like a histogram. A graph of a categorical variable like a bar graph. Provide a table of values below to improve understanding.
+-Bivariate graphs use same datatype: cont v. cont; cat v. cat
+-Scale and title the x-y axis, main title for clarity
+-Explain graph to readers for better understanding
+-Converting categorical data to numeric can improve graphics
+-Stay away from multidimensional graphs cause meaning and interpretation can be lost
+
