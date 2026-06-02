@@ -22,4 +22,3 @@ Telecom customer churn dataset (cleaned output from D206)
 |------|-------------|
 | `D207Code.ipynb` | EDA notebook |
 | `churn_clean.csv` | Input dataset |
-| `D207 Performance Assessment.docx` | Written analysis report |
